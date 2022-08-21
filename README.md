@@ -27,10 +27,4 @@ Invalid user inputs are:
 ## Error Handling
 - If user entered the wrong output (which is possible), calculator should print the `Wrong expression: <Reason>` message, where `<Reason>` is the explanation (for example, division by zero)
 
-## Advanced Task 
-For now, calculator must work with integers only. You can add decimal numbers to your implementation.
-Use `/` for integer division and `//` for floor division (`5 // 2` = 2.5).
-
-## Notes
-- You can use any algorithm for the implementation. One of the most popular methods is using [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation). You can find some examples here: https://habr.com/ru/post/282379/
 
